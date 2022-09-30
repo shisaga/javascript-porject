@@ -1,0 +1,37 @@
+
+img{
+  border-radius: 100%;
+  display: flex;
+
+
+}
+
+body {
+  background-color: #EAF6F6;
+  
+}
+hr{
+  
+  
+
+  
+     width :10%;
+    
+    border: 4px grey;
+    border-style: dotted none none;
+    border-spacing: 2px;
+    
+ 
+   
+
+
+}
+th{
+  display:flex;
+  justify-content: center;
+}
+h1,h3{
+  color: #66bfbf;
+}
+
+
